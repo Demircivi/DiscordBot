@@ -32,7 +32,7 @@ This repository contains a Discord example bot that consists of several commands
 
 ## Installation
 
-⚠️ Make sure you've **NPM** and **Node** installed.
+⚠️ Make sure you've **NPM** and **Node.js** installed.
 
 Open a terminal window and clone the repository. After cloning the repository change your directory to the repository directory.
 
