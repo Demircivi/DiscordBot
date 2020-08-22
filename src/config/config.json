@@ -1,0 +1,10 @@
+{
+  "token": "",
+  "commandPrefix": "-",
+  "enableUnknownCommandMessage": true,
+  "maximumMessageCountToPurge": 1000,
+  "defaultMinecraftServer": {
+    "host": "minecraft.emredemircivi.com",
+    "port": 25565
+  }
+}
